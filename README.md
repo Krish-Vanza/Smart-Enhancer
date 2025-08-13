@@ -1,4 +1,4 @@
-# AI Image Enhancer
+# Smart Enhancer
 
 A modern web application to enhance images using an AI-powered API. Users can upload images, preview the original and enhanced versions, and download the enhanced result. The app enforces strict validation for file type, size, and dimensions.
 
