@@ -9,7 +9,7 @@ URL : https://smart-enhancer.netlify.app/
 - File validation: max 15MB, max 4096x4096 pixels
 - Preview original and enhanced images side by side
 - Download enhanced images
-- Responsive, clean UI with Tailwind CSS
+- Responsive, clean UI
 - Asynchronous enhancement with loading indicator
 
 ## Getting Started
