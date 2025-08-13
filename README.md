@@ -1,6 +1,8 @@
 # Smart Enhancer
 
 A modern web application to enhance images using an AI-powered API. Users can upload images, preview the original and enhanced versions, and download the enhanced result. The app enforces strict validation for file type, size, and dimensions.
+URL : https://smart-enhancer.netlify.app/
+
 
 ## Features
 - Upload images (PNG, JPG, JPEG, WEBP, GIF, BMP, TIFF)
